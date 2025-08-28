@@ -86,6 +86,8 @@ Dr. Hu Chuan-Peng, School of Psychology, Nanjing Normal University, Nanjing, Chi
 -   [x] 2025-04-15, start to revise.
 
 -   [x] 2025-06-17, finished revision. We thank the following early career researchers for their suggestions on the readability of this work: Yi-Ling Zhang, Jiawei Zhao, and Ziyang Zhao.
+  
+-   [x] 2025-08-18, published in [AMPPS](https://journals.sagepub.com/doi/full/10.1177/25152459251357565)! 
 
 ## Conference presentations
 -   2025-06-27 \| SIPS 2025, Budapest, Hungary, Unconference: "A Collection of Practical Guides for Adopting Open Science Practices in Resource-Limited Settings"
