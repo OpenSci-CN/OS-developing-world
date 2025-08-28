@@ -2,7 +2,7 @@
 
 ## About
 
-This is a collaborative project that will collect practical experiences and guides related to open science in developing countries. The direct output of this project will be a collaborative paper for the journal [Advances in Methods and Practices in Psychological Science (AMPPS)](https://www.psychologicalscience.org/publications/ampps). Ultimately, we hope this project will accelerate international collaborations, especially those between researchers from developing countries. Also, we hope the practical guides will help researchers in developing countries to promote and implement open science practices in psychological science and related fields.
+This is a collaborative project that collected practical experiences and guides related to open science in developing countries. The direct output of this project is a collaborative paper for the journal [Advances in Methods and Practices in Psychological Science (AMPPS)](https://journals.sagepub.com/doi/full/10.1177/25152459251357565). Ultimately, we hope this project will accelerate international collaborations. Also, we hope the practical guides will help researchers in developing countries to promote and implement open science practices in psychological science and related fields.
 
 This project is partnered with [the Chinese Open Science Network](https://open-sci.cn/) and [FORRT](https://forrt.org/)
 
@@ -12,7 +12,7 @@ Dr. Hu Chuan-Peng, School of Psychology, Nanjing Normal University, Nanjing, Chi
 
 ## Contributors
 
--   45 researchers contributed their perspectives of open science from 20 developing countries/regions and synthesized this practical guide.
+-   45 researchers contributed their perspectives of open science from 20 developing countries/regions in this practical guide.
 
 <!-- insert the png figure here: -->
 
